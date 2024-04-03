@@ -1,0 +1,42 @@
+body
+{
+    background-color:black;
+    padding:45px;    
+    
+}
+div{
+    text-align:center;
+    background-color:grey;
+   border-radius:10px;
+    }   
+h1{
+    font-size: 50px;
+   padding:3rem;
+   color:red;
+   text-shadow:2px 2px 2px black;
+}
+h5{
+    color:black;
+}
+
+button{
+    
+    width:200px;
+}
+button:hover{
+    background-color:brown ;
+    color:black;
+}
+#insta{
+    box-shadow:6px 6px 4px white;
+    height: 10%;
+    width: 40%;
+    margin-left: 20em;
+}
+input{
+   border-radius: 7px;
+   width: 220px;
+}
+input:hover{
+   background-color: aquamarine;
+}
